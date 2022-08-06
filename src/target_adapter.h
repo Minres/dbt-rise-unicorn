@@ -1,9 +1,7 @@
-/*
- * target_adapter.h
- *
- *  Created on: 06.08.2022
- *      Author: eyck
- */
+/*******************************************************************************
+ * Copyright 2022 MINRES Technologies GmbH
+ * SPDX-License-Identifier: Apache-2.0
+ *******************************************************************************/
 
 #ifndef DBT_RISE_UNICORN_SRC_TARGET_ADAPTER_H_
 #define DBT_RISE_UNICORN_SRC_TARGET_ADAPTER_H_

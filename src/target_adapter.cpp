@@ -1,9 +1,7 @@
-/*
- * target_adapter.cpp
- *
- *  Created on: 06.08.2022
- *      Author: eyck
- */
+/*******************************************************************************
+ * Copyright 2022 MINRES Technologies GmbH
+ * SPDX-License-Identifier: Apache-2.0
+ *******************************************************************************/
 
 #include "target_adapter.h"
 #include "core_impl.h"

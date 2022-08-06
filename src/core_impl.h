@@ -1,9 +1,7 @@
-/*
- * core_impl.h
- *
- *  Created on: 06.08.2022
- *      Author: eyck
- */
+/*******************************************************************************
+ * Copyright 2022 MINRES Technologies GmbH
+ * SPDX-License-Identifier: Apache-2.0
+ *******************************************************************************/
 
 #ifndef DBT_RISE_UNICORN_SRC_CORE_IMPL_H_
 #define DBT_RISE_UNICORN_SRC_CORE_IMPL_H_
